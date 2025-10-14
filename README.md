@@ -75,5 +75,34 @@ Week4_CMOS_Circuit_Design_sky130/
 
 ---
 
+## 🛠️ How to run (examples)
+
+* ▶️ Run a DC sweep (non-interactive):
+
+```bash
+ngspice -b netlist_Id_Vds.cir > results/log.txt
+```
+
+* ▶️ Run a transient and save raw data:
+
+```bash
+ngspice -b netlist_tran.cir
+# outputs written by .control wrdata commands
+```
+
+---
+
+## 📈 Results & reporting
+
+* 🧾 For each day, include a one-page `notes.md` with:
+  * 📌 Objectives
+  * 🔬 Netlist used
+  * 📊 Plots (embed or link PNGs)
+  * 🔢 Extracted values table (Vth, Vm, tPLH, tPHL, NML, NMH)
+  * 📝 Short analysis (connecting results to device physics)
+  
+---
+
+
 
 
