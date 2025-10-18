@@ -4,6 +4,8 @@
 
 ---
 
+## 🧩 Part 1: Theory — NMOS *Id vs Vds* (Ngspice + Sky130) 
+
 ### 📘 Objective
 
 🔎 **Understand** NMOS physics and Id–Vds behaviour.  
@@ -161,6 +163,8 @@ $\[\mathrm{SS} = \dfrac{dV_{GS}}{d(\log_{10} I_D)}\]$ (mV/decade)
 4. 🧲 Demonstrate body effect: step VSB and plot V_T vs VSB.
 
 ---
+
+## 🧪 Part 2: Lab — NMOS *Id vs Vds* (Ngspice + Sky130) 
 
 ## 20. 🔭 Next Steps & References
 
