@@ -46,7 +46,7 @@
 
 - 📘 **Body‑effect (correct form):**
 
-$\[\boxed{\;V_T = V_{T0} + \gamma\left(\sqrt{2\phi_F + V_{SB}} - \sqrt{2\phi_F}\right)\;}\]$
+$\[\boxed{V_T = V_{T0} + \gamma\left(\sqrt{2\phi_F + V_{SB}} - \sqrt{2\phi_F}\right)}\]$
 
   - 🔬 $\(V_{T0}\)$: zero‑bias threshold.  
   - ⚙️ $\(\gamma = \sqrt{\dfrac{2 q \varepsilon_{si} N_A}{C_{ox}}}\)$: body‑effect coefficient.  
@@ -82,7 +82,7 @@ $\[I_D = W \mu_n C_{ox} \Big[(V_{GS}-V_T)V_{DS} - \tfrac{V_{DS}^2}{2}\Big] \frac
 
 - ⚙️ Define process transconductance $\(K_N = \mu_n C_{ox} \dfrac{W}{L}\)$ →
 
-$\[\boxed{\;I_D = K_N \Big[(V_{GS}-V_T)V_{DS} - \tfrac{1}{2} V_{DS}^2\Big]\; }\]$
+$\[\boxed{I_D = K_N \Big[(V_{GS}-V_T)V_{DS} - \tfrac{1}{2} V_{DS}^2\Big]}\]$
 
 ---
 
@@ -99,7 +99,7 @@ $\[I_D \approx K_N (V_{GS} - V_T) V_{DS}\]$
 - 🔎 Pinch‑off at $\(V_{DS} = V_{GS} - V_T\)$.  
 - 📌 Ideal long‑channel saturation current:
 
-$\[\boxed{\;I_{D(sat)} = \tfrac{1}{2} K_N (V_{GS} - V_T)^2\; }\]$
+$\[\boxed{I_{D(sat)} = \tfrac{1}{2} K_N (V_{GS} - V_T)^2}\]$
 
 - ⚠️ Practical correction (channel‑length modulation):
 
